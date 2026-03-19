@@ -65,16 +65,3 @@ src/
   index.css
 ```
 
-## Contact Information
-
-- Phone: +91 9876543210
-- WhatsApp: +91 9876543210
-- Email: sales@supermagicenterprises.com
-- Address: Ahmedabad, Gujarat, India
-
-## Important Notes
-
-- No online payment system
-- No checkout page
-- Clicking any product or "Buy Now" opens a contact modal
-- Customers contact directly to purchase
